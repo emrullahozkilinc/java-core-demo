@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcbd06f2-8c66-4aff-8e51-c678edfc4830" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +41,72 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.collections.Main">
+    <configuration name="BombBaby" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="google_foobar.challenge5.BombBaby" />
+      <module name="java-core-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="google_foobar.challenge5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConcurrencyExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_concurrency.ConcurrencyExecutor" />
+      <module name="java-core-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConcurrencyExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_concurrency.ConcurrencyExecutor" />
+      <module name="java-core-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core_java.Main" />
+      <module name="java-core-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="new_vs_clone.Main" />
+      <option name="MAIN_CLASS_NAME" value="core_java.Main" />
       <module name="java-core-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="new_vs_clone.*" />
+          <option name="PATTERN" value="core_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,45 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="new_vs_clone.Main1" />
+    <configuration name="collections.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.Main" />
       <module name="java-core-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="new_vs_clone.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenge2.Solution" />
-      <module name="java-core-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="challenge2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="challenge1.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenge1.Solution" />
-      <module name="java-core-demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.collections.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.challenge1.Solution" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.ConcurrencyExecutor" />
+        <item itemvalue="Application.BombBaby" />
       </list>
     </recent_temporary>
   </component>
@@ -123,10 +156,82 @@
       <workItem from="1663523038512" duration="770000" />
       <workItem from="1663572664332" duration="1333000" />
       <workItem from="1663575218668" duration="73000" />
+      <workItem from="1663693302687" duration="3847000" />
+      <workItem from="1663772294534" duration="23000" />
+      <workItem from="1665167802241" duration="1180000" />
+      <workItem from="1665170436942" duration="601000" />
+      <workItem from="1665213949283" duration="12695000" />
+      <workItem from="1665233615021" duration="34000" />
+      <workItem from="1665233810473" duration="23000" />
+      <workItem from="1665778933347" duration="2147000" />
+      <workItem from="1665823196145" duration="3469000" />
+      <workItem from="1665830360325" duration="603000" />
+      <workItem from="1665999957243" duration="1673000" />
+      <workItem from="1666260254671" duration="69000" />
+      <workItem from="1666279967956" duration="5841000" />
+      <workItem from="1666335533421" duration="26000" />
+      <workItem from="1666369247510" duration="8989000" />
+      <workItem from="1666553335395" duration="1626000" />
+      <workItem from="1666594104096" duration="56000" />
+      <workItem from="1666602383287" duration="933000" />
+      <workItem from="1666672054253" duration="99000" />
+      <workItem from="1666882635267" duration="2983000" />
+      <workItem from="1666944656558" duration="47000" />
+      <workItem from="1666976438030" duration="1289000" />
+      <workItem from="1666983158253" duration="602000" />
+      <workItem from="1667024307418" duration="1253000" />
+      <workItem from="1667045355504" duration="34000" />
+      <workItem from="1667723638334" duration="3560000" />
+      <workItem from="1668250618672" duration="4200000" />
+      <workItem from="1668285075044" duration="2283000" />
+      <workItem from="1668324722509" duration="1295000" />
+      <workItem from="1668333451774" duration="566000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/google_foobar/challenge3/MathDemo.java</url>
+          <line>64</line>
+          <properties class="google_foobar.challenge3.MathDemo" method="reverseChar">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/google_foobar/challenge3/MathDemo.java</url>
+          <line>11</line>
+          <properties class="google_foobar.challenge3.MathDemo" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/google_foobar/challenge3/MathDemo.java</url>
+          <line>35</line>
+          <properties class="google_foobar.challenge3.MathDemo" method="getSubtractionOfStringBaseB">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/google_foobar/challenge5/BombBaby.java</url>
+          <line>32</line>
+          <properties class="google_foobar.challenge5.BombBaby" method="whileSolution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
